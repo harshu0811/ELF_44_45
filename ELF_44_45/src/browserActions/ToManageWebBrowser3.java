@@ -18,5 +18,4 @@ public class ToManageWebBrowser3 {
 		Point targetPosition = new Point(100, 200);
 		driver.manage().window().setPosition(targetPosition);
 	}
-
 }
