@@ -17,7 +17,7 @@ public class ToUnderstandImplicitWait {
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-		WebDriverWait explicitWait = new WebDriverWait(driver, 15);
+		WebDriverWait explicitWait = new WebDriverWait(driver, Duration.ofSeconds(15));
 		FluentWait fw = new FluentWait(driver).
 				pollingEvery(Duration.ofMillis(100))
 				.withTimeout(Duration.ofSeconds(15));

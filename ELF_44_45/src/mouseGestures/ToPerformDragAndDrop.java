@@ -1,5 +1,6 @@
 package mouseGestures;
 
+import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -17,7 +18,7 @@ public class ToPerformDragAndDrop {
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-		WebDriverWait explicitWait = new WebDriverWait(driver, 15);
+		WebDriverWait explicitWait = new WebDriverWait(driver, Duration.ofSeconds(15));
 		driver.get("https://trello.com/login");
 		
 		driver.findElement(By.id("user")).sendKeys("sumanthqsp@gmail.com");

@@ -32,7 +32,7 @@ public class ToPerformAllignmentCheck {
 		
 		System.out.println(emailRect.getWidth());
 		
-		emailRect.setWidth(200);
+//		emailRect.setWidth(200);
 		
 		System.out.println(emailRect.getWidth());
 		
