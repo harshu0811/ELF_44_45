@@ -1,0 +1,105 @@
+TestNG (Test Next Generation) -> Developer tool     JUnit
+------ 
+	it is a Unit Testing tool. Unit Testing Framework
+
+Batch Execution
+Parallel Execution			1. main(String[] args)
+Group Execution					@Test
+Report Generation
+Cross Browser Execution			2. System.out.println( );
+.					     Reporter.log("  " , true);
+.
+.
+
+Installation				Annotation -> Java type 
+************				@interface 
+1. Eclipse Market Place			
+2. Install New Software 		to give info to compiler and programmer
+3. Maven Dependency			it can be added on top of a variable
+4. TestNG jar				method, class
+
+
+TestNG class -> a class with atleast one @Test annotated method
+		you can have any num of Test cases (@Test annotated method)
+Test case    -> a method with @Test annotation
+Test steps   -> instructions/ stmts inside a test case 
+
+Priority:
+********
+when you have multiple test cases in a TestNG class
+it runs based on the priority
+by default the priority will be zero 
+when the priority is same it runs based on alphabetical order
+you can given integers (+ve 0 -ve) Priority
+lowset to highest
+default value is 0
+Scope is in same TestNG class
+
+InvocationCount:
+***************
+to run same test case for multiple times
+default value is 1
+if 0 or -ve value is given then that test case will not be considered for execution
+
+ThreadPoolSize:
+**************
+providing threads for the execution of a test case
+to run same test case multiple times in parallel
+
+enabled:
+*******
+if set to false that test case will not be executed (disabled)
+default value is true
+
+timeout:
+*******
+used to run time critical test cases.
+checks wheather the test case will be executed within the given time or not
+if its not executed within the specified time then it will consider the test case as failure and stops the execution.  throws ThreadTimeoutException
+
+dependsOnMethods:
+****************
+used to create dependency between test cases
+if a test case is dependant on failed test case then it will not be executed
+scope is in same TestNG class
+TestNGException , test case depends on a nonexistent testcase
+
+Batch Execution
+***************
+	Execution multiple scripts in one single click
+Select multiple testNG classses, right click , TestNG , convert to TestNG
+An xml file gets generated, if you run this xml file then it will execute all the test cases
+in a sequential format
+
+Parallel Execution
+******************
+	Execution multiple scripts in parallel in one single click
+Select multiple testNG classses, right click , TestNG , convert to TestNG
+An xml file gets generated, in this xml file add an attribute called as parallel="classes" at the test tag level or suite level
+if you run this xml file then it will execute all the test cases in parallel 
+Note : Number of testNG classes getting invoked depends on Thread-count attribute at test level
+
+Group Execution
+***************
+	Execution of test cases of similar group is called as Group Execution.
+In order to achieve first map the test case for a particular group using groups helper attribute. And then add groups run include tags in xml file and run that particular group.
+You can map a particular test case for multiple groups,
+and you can include multiple groups during the execution
+
+DependsOnGroup
+**************
+	this helper attribute helps you to run a particular test case after executing all the other test cases of a particular group. 
+This attribute checks all the TestNG classes in the project.
+
+CrossBrowserTesting
+*******************
+	WebDriver driver = new ChromeDriver();
+1. to achieve Cross browser testing / execution
+
+
+
+
+
+
+
+	
