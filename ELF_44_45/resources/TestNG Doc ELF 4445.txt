@@ -93,10 +93,35 @@ This attribute checks all the TestNG classes in the project.
 
 CrossBrowserTesting
 *******************
-	WebDriver driver = new ChromeDriver();
+	WebDriver driver = new ChromeDriver();  //upcasting
 1. to achieve Cross browser testing / execution
 
 
+Configuration Annotation
+************************
+
+@BeforeSuite		@AfterSuite
+@BeforeTest		@AfterTest		@Test
+@BeforeClass		@AfterClass
+@BeforeMethod		@AfterMethod
+
+@BeforeSuite
+	@BeforeTest
+		@BeforeClass
+			@BeforeMethod
+					@Test
+			@AfterMethod
+		@AfterClass
+	@AfterTest
+@AfterSuite
+
+
+when you have multiple test cases in one testng class how will they execute.
+
+
+
+DataProvider
+************
 
 
 
