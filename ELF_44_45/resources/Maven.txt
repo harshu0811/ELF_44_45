@@ -1,0 +1,65 @@
+Maven -> Devloper tool/ Devops tool   	(Ant, Maven, Gradle) 
+-----
+	it is a build tool.
+
+Build creation
+Build installation			  .m2   
+Build deployment
+Build testing
+
+Advantages
+**********
+1. dependency management / handling dependencies is very easy
+2. framework setup is quick and easy for new engg
+3. you can execute scripts in cmd line
+4. profiling
+5. pass a parameter at the run time
+6. 
+
+
+what is .m2?
+it is a local maven repo created by maven at the time of adding dependency
+
+src/test/java    ->     TC_Register_001_Test
+
+-->  maven commands     =>   pom.xml file will be executed 
+	mvn clean	->   clears the target folder
+	mvn validate	->   validating the entire framework
+	mvn compile	->   compile and check for missing jars
+	mvn test	->   used for executing all the test scripts /testng class
+				src/test/java  -->  suffixed with Test
+	mvn package	->   used for wrapping the project and creating jar 
+	mvn install	->   install the package
+	mvn deploy	->   deploying the build  to env
+
+cyclic order -> maven build life cycle
+
+
+
+
+
+
+Test scripts should be suffixed with Test
+what is maven ?
+why maven in automation ?
+list out few mvn commands ? 
+mvn test -> pom.xml 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

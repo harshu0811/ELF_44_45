@@ -127,4 +127,32 @@ DataProvider
 
 
 
+Assertion
+---------
+	it is one of the advanced feature in testNG which is used for verification or validation.
+Two types of Assertion
+1. Assert   	(HardAssert)
+2. SoftAssert
+
+
+Drawbacks of using if and else for validation
+*********************************************
+-> if else consumes more lines of code
+-> if else will not stop the execution if there is some error
+-> proper error will not be recorded
+
+Assert 	
+******
+it is a class with static methods
+assertEquals(Expected data, Actual data )
+
+Assert 				|    		SoftAssert
+--------------------------------|-------------------------------------------
+1. methods are static		|	methods are non static 
+2. it will stop the execution	|	it will not stop the execution
+3. no need of calling assertAll	|	it is mandatory to call assertAll()
+
+
+
+
 	
