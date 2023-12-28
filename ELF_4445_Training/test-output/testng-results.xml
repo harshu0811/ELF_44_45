@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="23" total="27" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[from before suite]]>
+    </line>
+    <line>
+      <![CDATA[reporter config]]>
+    </line>
+    <line>
+      <![CDATA[JDBC connection]]>
+    </line>
+    <line>
+      <![CDATA[from before test]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[from before method]]>
+    </line>
+    <line>
+      <![CDATA[Test URL Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Log in Link]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password Entered]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[from after method]]>
+    </line>
+    <line>
+      <![CDATA[from after class]]>
+    </line>
+    <line>
+      <![CDATA[close browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[from before method]]>
+    </line>
+    <line>
+      <![CDATA[Test URL Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Log in Link]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password Entered]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Electronics page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[CellPhones is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Smartphone is added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Shopping Cart is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on terms of services checkbox]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Checkout Page opened]]>
+    </line>
+    <line>
+      <![CDATA[Billing Address continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Shipping Address continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Shipping method continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Payment method continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Payment information continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Order confirmation page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Order number: 1571581 obtained]]>
+    </line>
+    <line>
+      <![CDATA[Orders link is clicked]]>
+    </line>
+    <line>
+      <![CDATA[order is present]]>
+    </line>
+    <line>
+      <![CDATA[from after method]]>
+    </line>
+    <line>
+      <![CDATA[from after class]]>
+    </line>
+    <line>
+      <![CDATA[close browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[from before method]]>
+    </line>
+    <line>
+      <![CDATA[Test URL Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Log in Link]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password Entered]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Electronics page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[CellPhones is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Smartphone is added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Shopping Cart is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Smartphone is present in cart page]]>
+    </line>
+    <line>
+      <![CDATA[from after method]]>
+    </line>
+    <line>
+      <![CDATA[from after class]]>
+    </line>
+    <line>
+      <![CDATA[close browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[from before method]]>
+    </line>
+    <line>
+      <![CDATA[Test URL Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Log in Link]]>
+    </line>
+    <line>
+      <![CDATA[Email Entered]]>
+    </line>
+    <line>
+      <![CDATA[Password Entered]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Electronics page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[CellPhones is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Smartphone is added to cart]]>
+    </line>
+    <line>
+      <![CDATA[Shopping Cart is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on terms of services checkbox]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Checkout Page opened]]>
+    </line>
+    <line>
+      <![CDATA[Billing Address continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Shipping Address continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Shipping method continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[COD is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Payment method continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Payment information continue button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Button clicked]]>
+    </line>
+    <line>
+      <![CDATA[from after method]]>
+    </line>
+    <line>
+      <![CDATA[from after class]]>
+    </line>
+    <line>
+      <![CDATA[close browser]]>
+    </line>
+    <line>
+      <![CDATA[from after test]]>
+    </line>
+    <line>
+      <![CDATA[from after suite]]>
+    </line>
+    <line>
+      <![CDATA[flush reporter]]>
+    </line>
+    <line>
+      <![CDATA[closing JDBC connection]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-28T12:13:24 IST" name="Suite" finished-at="2023-12-28T12:16:13 IST" duration-ms="169466">
+    <groups>
+      <group name="group2">
+        <method signature="DWS_TC_007_Test.placingOrderWithCashOnDelivery()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" name="placingOrderWithCashOnDelivery" class="Scripts.DWS_TC_007_Test"/>
+      </group> <!-- group2 -->
+      <group name="group1">
+        <method signature="DWS_TC_001_Test.loginWithValidCredentials()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" name="loginWithValidCredentials" class="Scripts.DWS_TC_001_Test"/>
+        <method signature="DWS_TC_002_Test.placingOrder()[pri:0, instance:Scripts.DWS_TC_002_Test@63a12c68]" name="placingOrder" class="Scripts.DWS_TC_002_Test"/>
+        <method signature="DWS_TC_003_Test.productToCartSection()[pri:0, instance:Scripts.DWS_TC_003_Test@28f3b248]" name="productToCartSection" class="Scripts.DWS_TC_003_Test"/>
+        <method signature="DWS_TC_007_Test.placingOrderWithCashOnDelivery()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" name="placingOrderWithCashOnDelivery" class="Scripts.DWS_TC_007_Test"/>
+      </group> <!-- group1 -->
+    </groups>
+    <test started-at="2023-12-28T12:13:24 IST" name="Test" finished-at="2023-12-28T12:16:13 IST" duration-ms="169466">
+      <class name="Scripts.DWS_TC_003_Test">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Scripts.DWS_TC_003_Test@28f3b248]" started-at="2023-12-28T12:14:54 IST" name="beforeClass" finished-at="2023-12-28T12:15:00 IST" duration-ms="5573" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Scripts.DWS_TC_003_Test@28f3b248]" started-at="2023-12-28T12:15:00 IST" name="beforeMethod" finished-at="2023-12-28T12:15:08 IST" duration-ms="8141" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from before method]]>
+            </line>
+            <line>
+              <![CDATA[Test URL Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Log in Link]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password Entered]]>
+            </line>
+            <line>
+              <![CDATA[Login Button Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productToCartSection()[pri:0, instance:Scripts.DWS_TC_003_Test@28f3b248]" started-at="2023-12-28T12:15:08 IST" name="productToCartSection" finished-at="2023-12-28T12:15:13 IST" duration-ms="5625" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Electronics page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[CellPhones is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Smartphone is added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Shopping Cart is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Smartphone is present in cart page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- productToCartSection -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Scripts.DWS_TC_003_Test@28f3b248]" started-at="2023-12-28T12:15:13 IST" name="afterMethod" finished-at="2023-12-28T12:15:32 IST" duration-ms="18836" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Scripts.DWS_TC_003_Test@28f3b248]" started-at="2023-12-28T12:15:32 IST" name="afterClass" finished-at="2023-12-28T12:15:33 IST" duration-ms="1096" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after class]]>
+            </line>
+            <line>
+              <![CDATA[close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Scripts.DWS_TC_003_Test -->
+      <class name="Scripts.DWS_TC_001_Test">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:13:24 IST" name="beforeSuite" finished-at="2023-12-28T12:13:24 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from before suite]]>
+            </line>
+            <line>
+              <![CDATA[reporter config]]>
+            </line>
+            <line>
+              <![CDATA[JDBC connection]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:13:24 IST" name="beforeTest" finished-at="2023-12-28T12:13:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from before test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:13:24 IST" name="beforeClass" finished-at="2023-12-28T12:13:35 IST" duration-ms="10778" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:13:35 IST" name="beforeMethod" finished-at="2023-12-28T12:13:44 IST" duration-ms="9812" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from before method]]>
+            </line>
+            <line>
+              <![CDATA[Test URL Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Log in Link]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password Entered]]>
+            </line>
+            <line>
+              <![CDATA[Login Button Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginWithValidCredentials()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:13:44 IST" name="loginWithValidCredentials" finished-at="2023-12-28T12:13:45 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:13:45 IST" name="afterMethod" finished-at="2023-12-28T12:14:04 IST" duration-ms="18959" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:14:04 IST" name="afterClass" finished-at="2023-12-28T12:14:06 IST" duration-ms="2284" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after class]]>
+            </line>
+            <line>
+              <![CDATA[close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:16:13 IST" name="afterTest" finished-at="2023-12-28T12:16:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Scripts.DWS_TC_001_Test@3c73951]" started-at="2023-12-28T12:16:14 IST" name="afterSuite" finished-at="2023-12-28T12:16:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after suite]]>
+            </line>
+            <line>
+              <![CDATA[flush reporter]]>
+            </line>
+            <line>
+              <![CDATA[closing JDBC connection]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Scripts.DWS_TC_001_Test -->
+      <class name="Scripts.DWS_TC_002_Test">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Scripts.DWS_TC_002_Test@63a12c68]" started-at="2023-12-28T12:14:06 IST" name="beforeClass" finished-at="2023-12-28T12:14:13 IST" duration-ms="6390" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Scripts.DWS_TC_002_Test@63a12c68]" started-at="2023-12-28T12:14:13 IST" name="beforeMethod" finished-at="2023-12-28T12:14:23 IST" duration-ms="10275" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from before method]]>
+            </line>
+            <line>
+              <![CDATA[Test URL Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Log in Link]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password Entered]]>
+            </line>
+            <line>
+              <![CDATA[Login Button Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="placingOrder()[pri:0, instance:Scripts.DWS_TC_002_Test@63a12c68]" started-at="2023-12-28T12:14:23 IST" name="placingOrder" finished-at="2023-12-28T12:14:40 IST" duration-ms="16717" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Electronics page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[CellPhones is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Smartphone is added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Shopping Cart is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on terms of services checkbox]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Checkout Page opened]]>
+            </line>
+            <line>
+              <![CDATA[Billing Address continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Shipping Address continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Shipping method continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Payment method continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Payment information continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Order confirmation page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Order number: 1571581 obtained]]>
+            </line>
+            <line>
+              <![CDATA[Orders link is clicked]]>
+            </line>
+            <line>
+              <![CDATA[order is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- placingOrder -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Scripts.DWS_TC_002_Test@63a12c68]" started-at="2023-12-28T12:14:40 IST" name="afterMethod" finished-at="2023-12-28T12:14:52 IST" duration-ms="12376" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Scripts.DWS_TC_002_Test@63a12c68]" started-at="2023-12-28T12:14:52 IST" name="afterClass" finished-at="2023-12-28T12:14:54 IST" duration-ms="2121" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after class]]>
+            </line>
+            <line>
+              <![CDATA[close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Scripts.DWS_TC_002_Test -->
+      <class name="Scripts.DWS_TC_007_Test">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" started-at="2023-12-28T12:15:33 IST" name="beforeClass" finished-at="2023-12-28T12:15:38 IST" duration-ms="4593" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" started-at="2023-12-28T12:15:38 IST" name="beforeMethod" finished-at="2023-12-28T12:15:46 IST" duration-ms="8077" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from before method]]>
+            </line>
+            <line>
+              <![CDATA[Test URL Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Log in Link]]>
+            </line>
+            <line>
+              <![CDATA[Email Entered]]>
+            </line>
+            <line>
+              <![CDATA[Password Entered]]>
+            </line>
+            <line>
+              <![CDATA[Login Button Clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="placingOrderWithCashOnDelivery()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" started-at="2023-12-28T12:15:46 IST" name="placingOrderWithCashOnDelivery" finished-at="2023-12-28T12:16:01 IST" duration-ms="14764" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Electronics page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[CellPhones is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Smartphone is added to cart]]>
+            </line>
+            <line>
+              <![CDATA[Shopping Cart is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[clicked on terms of services checkbox]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Checkout Page opened]]>
+            </line>
+            <line>
+              <![CDATA[Billing Address continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Shipping Address continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Shipping method continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[COD is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Payment method continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Payment information continue button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Button clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- placingOrderWithCashOnDelivery -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" started-at="2023-12-28T12:16:01 IST" name="afterMethod" finished-at="2023-12-28T12:16:11 IST" duration-ms="10632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Scripts.DWS_TC_007_Test@1b1426f4]" started-at="2023-12-28T12:16:11 IST" name="afterClass" finished-at="2023-12-28T12:16:13 IST" duration-ms="1777" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[from after class]]>
+            </line>
+            <line>
+              <![CDATA[close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Scripts.DWS_TC_007_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
