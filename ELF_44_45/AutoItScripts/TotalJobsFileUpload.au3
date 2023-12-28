@@ -1,7 +1,0 @@
-send("D:\Sumanth ELF\CourseContentSelenium.pdf")
-sleep(500)
-send("{TAB}")
-sleep(500)
-send("{TAB}")
-sleep(500)
-send("{ENTER}")

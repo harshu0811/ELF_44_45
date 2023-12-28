@@ -1,6 +1,0 @@
-Hi welcome to Advanced Selenium
-Data reading
-TestNG
-Maven
-GitHub
-Jenkins
